@@ -225,9 +225,6 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/a94fc44623d98b825183db41afd8763
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/30/CXUpIb.png",110. STV 
 https://a8.radyotelekom.com.tr:3179/stream/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://resmim.net/cdn/2026/05/04/Codv1k.png",29. Başka Sinema
-https://stream41.radyotelekom.com.tr/stream/m3u8/d275c962b67bd75a05e78f3445a02a49/d275c962b67bd75a05e78f3445a02a49.m3u8
-
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/04/30/CbQMEo.png",112. Deniz TV
 https://stream41.radyotelekom.com.tr/stream/m3u8/8b852b7b00762f50083e325166e9d758/8b852b7b00762f50083e325166e9d758.m3u8
 
